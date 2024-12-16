@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "sass": "^1.83.0",
+    "sass-loader": "^10.5.2"
+  },
+  "dependencies": {
+    "basiclibrary.ts": "^1.1.8",
+    "uview-ui": "^2.0.38"
+  }
+}
