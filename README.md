@@ -1,2 +1,2 @@
-# XBuilder.Study
-XBuilder入门研究
+# Study.XBuilder         
+XBuilder使用入门研究
