@@ -1,0 +1,31 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      basiclibrary.ts:
+        specifier: ^1.2.6
+        version: 1.2.6
+    devDependencies:
+      '@dcloudio/types':
+        specifier: ^3.4.5
+        version: 3.4.14
+
+packages:
+
+  '@dcloudio/types@3.4.14':
+    resolution: {integrity: sha512-VolQeZfTh8pQFsr2IlfIVX93blfvGTuBoJuZUc7iWOqtHV8gDrq6fXLhzsVlgZyuhhRZLOxlo33rkEqnY+ucAw==}
+
+  basiclibrary.ts@1.2.6:
+    resolution: {integrity: sha512-6bos7hXheUsDjbwaITT1k31coVWHnoYZ9Dik1CtKgZMzVxR3iMBpO/M7GCrZ3PJN2pRd7XW9Kt4C3hslJUTRRw==}
+
+snapshots:
+
+  '@dcloudio/types@3.4.14': {}
+
+  basiclibrary.ts@1.2.6: {}
