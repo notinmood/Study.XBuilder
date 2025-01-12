@@ -322,7 +322,7 @@
 				"navigationBarTitleText": "关于"
 			}
 		},
-		{			"path": "pages/about/01abc",			"style": {				"navigationBarTitleText": "01入门"			}		},		// #endif
+		{			"path": "pages/about/01abc",			"style": {				"navigationBarTitleText": "01入门"			}		},		{			"path": "pages/about/02basicSytax",			"style": {				"navigationBarTitleText": "02基础语法"			}		},		// #endif
 		{
 			"path": "platforms/app-plus/feedback/feedback",
 			"style": {

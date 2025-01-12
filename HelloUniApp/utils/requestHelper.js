@@ -27,7 +27,7 @@ export class RequestHelper {
 				}
 			})
 		})
-	}
+	}
 
 	/**
 	 * 封装GET请求
